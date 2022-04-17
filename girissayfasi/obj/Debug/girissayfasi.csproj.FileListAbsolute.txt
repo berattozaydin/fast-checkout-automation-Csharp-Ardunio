@@ -1,0 +1,70 @@
+c:\users\enes\documents\visual studio 2015\Projects\girissayfasi\girissayfasi\bin\Debug\girissayfasi.exe.config
+c:\users\enes\documents\visual studio 2015\Projects\girissayfasi\girissayfasi\bin\Debug\girissayfasi.exe
+c:\users\enes\documents\visual studio 2015\Projects\girissayfasi\girissayfasi\bin\Debug\girissayfasi.pdb
+c:\users\enes\documents\visual studio 2015\Projects\girissayfasi\girissayfasi\obj\Debug\girissayfasi.Properties.Resources.resources
+c:\users\enes\documents\visual studio 2015\Projects\girissayfasi\girissayfasi\obj\Debug\girissayfasi.csproj.GenerateResource.Cache
+c:\users\enes\documents\visual studio 2015\Projects\girissayfasi\girissayfasi\obj\Debug\girissayfasi.exe
+c:\users\enes\documents\visual studio 2015\Projects\girissayfasi\girissayfasi\obj\Debug\girissayfasi.pdb
+c:\users\enes\documents\visual studio 2015\Projects\girissayfasi\girissayfasi\obj\Debug\girissayfasi.Giris.resources
+C:\Users\Enes\documents\visual studio 2015\Projects\girissayfasi\girissayfasi\obj\Debug\girissayfasi.Form2.resources
+C:\Users\Enes\documents\visual studio 2015\Projects\girissayfasi\girissayfasi\obj\Debug\girissayfasi.settings.resources
+C:\Users\Enes\documents\visual studio 2015\Projects\girissayfasi\girissayfasi\obj\Debug\girissayfasi.urunekle.resources
+C:\Users\Enes\documents\visual studio 2015\Projects\girissayfasi\girissayfasi\obj\Debug\girissayfasi.csprojResolveAssemblyReference.cache
+C:\Users\Enes\documents\visual studio 2015\Projects\girissayfasi\girissayfasi\obj\Debug\girissayfasi.kullanici.resources
+C:\Users\Enes\documents\visual studio 2015\Projects\girissayfasi\girissayfasi\obj\Debug\girissayfasi.KullaniciArayuz.resources
+C:\Users\Enes\Desktop\girissayfasi\girissayfasi\bin\Debug\girissayfasi.exe.config
+C:\Users\Enes\Desktop\girissayfasi\girissayfasi\obj\Debug\girissayfasi.exe
+C:\Users\Enes\Desktop\girissayfasi\girissayfasi\obj\Debug\girissayfasi.pdb
+C:\Users\Enes\Desktop\girissayfasi\girissayfasi\bin\Debug\girissayfasi.exe
+C:\Users\Enes\Desktop\girissayfasi\girissayfasi\bin\Debug\girissayfasi.pdb
+C:\Users\Enes\Desktop\girissayfasi\girissayfasi\obj\Debug\girissayfasi.csprojResolveAssemblyReference.cache
+C:\Users\Enes\Desktop\girissayfasi\girissayfasi\obj\Debug\girissayfasi.Giris.resources
+C:\Users\Enes\Desktop\girissayfasi\girissayfasi\obj\Debug\girissayfasi.Form2.resources
+C:\Users\Enes\Desktop\girissayfasi\girissayfasi\obj\Debug\girissayfasi.kullanici.resources
+C:\Users\Enes\Desktop\girissayfasi\girissayfasi\obj\Debug\girissayfasi.KullaniciArayuz.resources
+C:\Users\Enes\Desktop\girissayfasi\girissayfasi\obj\Debug\girissayfasi.Properties.Resources.resources
+C:\Users\Enes\Desktop\girissayfasi\girissayfasi\obj\Debug\girissayfasi.settings.resources
+C:\Users\Enes\Desktop\girissayfasi\girissayfasi\obj\Debug\girissayfasi.urunekle.resources
+C:\Users\Enes\Desktop\girissayfasi\girissayfasi\obj\Debug\girissayfasi.csproj.GenerateResource.Cache
+C:\Users\Enes\Desktop\girissayfasi\girissayfasi\obj\Debug\girissayfasi.paraodeme.resources
+C:\Users\Enes\Desktop\girissayfasi\girissayfasi\obj\Debug\girissayfasi.fisler.resources
+C:\Users\Enes\Desktop\girissayfasi\girissayfasi\obj\Debug\girissayfasi.odemebekleniyor.resources
+C:\Users\Enes\Desktop\girissayfasi\girissayfasi\obj\Debug\girissayfasi.odemebitti.resources
+D:\Dersler\girissayfasi\girissayfasi\bin\Debug\girissayfasi.exe.config
+D:\Dersler\girissayfasi\girissayfasi\obj\Debug\girissayfasi.exe
+D:\Dersler\girissayfasi\girissayfasi\obj\Debug\girissayfasi.pdb
+D:\Dersler\girissayfasi\girissayfasi\bin\Debug\girissayfasi.exe
+D:\Dersler\girissayfasi\girissayfasi\bin\Debug\girissayfasi.pdb
+D:\Dersler\girissayfasi\girissayfasi\obj\Debug\girissayfasi.csprojResolveAssemblyReference.cache
+D:\Dersler\girissayfasi\girissayfasi\obj\Debug\girissayfasi.fisler.resources
+D:\Dersler\girissayfasi\girissayfasi\obj\Debug\girissayfasi.Giris.resources
+D:\Dersler\girissayfasi\girissayfasi\obj\Debug\girissayfasi.Form2.resources
+D:\Dersler\girissayfasi\girissayfasi\obj\Debug\girissayfasi.kullanici.resources
+D:\Dersler\girissayfasi\girissayfasi\obj\Debug\girissayfasi.KullaniciArayuz.resources
+D:\Dersler\girissayfasi\girissayfasi\obj\Debug\girissayfasi.odemebekleniyor.resources
+D:\Dersler\girissayfasi\girissayfasi\obj\Debug\girissayfasi.odemebitti.resources
+D:\Dersler\girissayfasi\girissayfasi\obj\Debug\girissayfasi.paraodeme.resources
+D:\Dersler\girissayfasi\girissayfasi\obj\Debug\girissayfasi.Properties.Resources.resources
+D:\Dersler\girissayfasi\girissayfasi\obj\Debug\girissayfasi.settings.resources
+D:\Dersler\girissayfasi\girissayfasi\obj\Debug\girissayfasi.urunekle.resources
+D:\Dersler\girissayfasi\girissayfasi\obj\Debug\girissayfasi.csproj.GenerateResource.Cache
+C:\Users\Berat\Desktop\girissayfasisonson\girissayfasi\girissayfasi\bin\Debug\girissayfasi.exe.config
+C:\Users\Berat\Desktop\girissayfasisonson\girissayfasi\girissayfasi\bin\Debug\girissayfasi.exe
+C:\Users\Berat\Desktop\girissayfasisonson\girissayfasi\girissayfasi\bin\Debug\girissayfasi.pdb
+C:\Users\Berat\Desktop\girissayfasisonson\girissayfasi\girissayfasi\obj\Debug\girissayfasi.csprojAssemblyReference.cache
+C:\Users\Berat\Desktop\girissayfasisonson\girissayfasi\girissayfasi\obj\Debug\girissayfasi.fisler.resources
+C:\Users\Berat\Desktop\girissayfasisonson\girissayfasi\girissayfasi\obj\Debug\girissayfasi.Giris.resources
+C:\Users\Berat\Desktop\girissayfasisonson\girissayfasi\girissayfasi\obj\Debug\girissayfasi.Form2.resources
+C:\Users\Berat\Desktop\girissayfasisonson\girissayfasi\girissayfasi\obj\Debug\girissayfasi.kullanici.resources
+C:\Users\Berat\Desktop\girissayfasisonson\girissayfasi\girissayfasi\obj\Debug\girissayfasi.KullaniciArayuz.resources
+C:\Users\Berat\Desktop\girissayfasisonson\girissayfasi\girissayfasi\obj\Debug\girissayfasi.odemebekleniyor.resources
+C:\Users\Berat\Desktop\girissayfasisonson\girissayfasi\girissayfasi\obj\Debug\girissayfasi.odemebitti.resources
+C:\Users\Berat\Desktop\girissayfasisonson\girissayfasi\girissayfasi\obj\Debug\girissayfasi.paraodeme.resources
+C:\Users\Berat\Desktop\girissayfasisonson\girissayfasi\girissayfasi\obj\Debug\girissayfasi.Properties.Resources.resources
+C:\Users\Berat\Desktop\girissayfasisonson\girissayfasi\girissayfasi\obj\Debug\girissayfasi.settings.resources
+C:\Users\Berat\Desktop\girissayfasisonson\girissayfasi\girissayfasi\obj\Debug\girissayfasi.urunekle.resources
+C:\Users\Berat\Desktop\girissayfasisonson\girissayfasi\girissayfasi\obj\Debug\girissayfasi.csproj.GenerateResource.cache
+C:\Users\Berat\Desktop\girissayfasisonson\girissayfasi\girissayfasi\obj\Debug\girissayfasi.csproj.CoreCompileInputs.cache
+C:\Users\Berat\Desktop\girissayfasisonson\girissayfasi\girissayfasi\obj\Debug\girissayfasi.exe
+C:\Users\Berat\Desktop\girissayfasisonson\girissayfasi\girissayfasi\obj\Debug\girissayfasi.pdb
+C:\Users\Berat\Desktop\girissayfasisonson\girissayfasi\girissayfasi\obj\Debug\girissayfasi.hakkindasayfa.resources
